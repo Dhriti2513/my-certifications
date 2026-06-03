@@ -1,0 +1,27 @@
+# ─── OS CLUTTER ───
+# Hidden system files that clutter folders when you view images/PDFs
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE & EDITOR CONFIGURATIONS ───
+# If you edit your README locally using VS Code or similar
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# ─── TEMPORARY & BACKUP FILES ───
+# Prevents accidental uploads of duplicate or autosaved PDFs/images
+*.tmp
+*.bak
+*~
+.#*
+
+# ─── DESIGN TOOL JUNK ───
+# If you use Photoshop or Illustrator to crop screenshots of certificates
+*.psd
+*.ai
