@@ -13,7 +13,7 @@ Every credential listed here is backed by verifiable documentation located withi
 | **AI Skills Passport** | EY & Microsoft | [View Certificate Image](assets/ai-skills-passport.png) |
 | **Getting Started with Artificial Intelligence** | IBM SkillsBuild | [View Certificate Image](assets/ibm-getting-started-ai.png) |
 | **LLM for Young Developers – Foundational Course** | NASSCOM (FutureSkills Prime) × Meta × AICTE | [View Certificate Image](assets/nasscom-meta-llm.png) |
-| **TCS iON - Generative AI Essentials Certification** | TCS iON | [View Certificate Image](assets/tcs-ion-genai-essentials.png) |
+| **TCS iON - Generative AI Essentials Certification** | TCS iON | [View Certificate Image](assets/tcs-ion-ai.png) |
 | **AI Engineering Essentials: Navigating the Tech Revolution** | Industry Certified | [View Certificate Image](assets/ai-engineering-essentials.png) |
 | **JavaScript Essentials** | Mozilla (Professional Certificate Series) | [View Certificate Image](assets/mozilla-javascript-essentials.png) |
 | **TCS iON - AI & Cybersecurity Awareness** | TCS iON | [View Certificate Image](assets/tcs-ion-ai-cybersecurity.png) |
