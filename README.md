@@ -10,14 +10,14 @@ Every credential listed here is backed by verifiable documentation located withi
 
 | Credential / Course | Issuing Organization | Status / Link |
 | :--- | :--- | :--- |
-| **AI Skills Passport** | EY & Microsoft | [View Certificate](assets/ai-skills-passport.pdf) |
-| **Getting Started with Artificial Intelligence** | IBM SkillsBuild | [View Certificate](assets/ibm-getting-started-ai.pdf) |
-| **LLM for Young Developers – Foundational Course** | NASSCOM (FutureSkills Prime) × Meta × AICTE | [View Certificate](assets/nasscom-meta-llm.pdf) |
-| **Generative AI Essentials** | TCS iON | [View Certificate](assets/tcs-ion-genai-essentials.pdf) |
-| **AI Engineering Essentials: Navigating the Tech Revolution** | Industry Certified | [View Certificate](assets/ai-engineering-essentials.pdf) |
-| **JavaScript Essentials** | Mozilla (Professional Certificate Series) | [View Certificate](assets/mozilla-javascript-essentials.pdf) |
-| **AI & Cybersecurity Awareness** | TCS iON | [View Certificate](assets/tcs-ion-ai-cybersecurity.pdf) |
-| **Python Essentials** | Professional Course | [View Certificate](assets/python-essentials.pdf) |
+| **AI Skills Passport** | EY & Microsoft | [View Certificate Image](assets/ai-skills-passport.png) |
+| **Getting Started with Artificial Intelligence** | IBM SkillsBuild | [View Certificate Image](assets/ibm-getting-started-ai.png) |
+| **LLM for Young Developers – Foundational Course** | NASSCOM (FutureSkills Prime) × Meta × AICTE | [View Certificate Image](assets/nasscom-meta-llm.png) |
+| **Generative AI Essentials** | TCS iON | [View Certificate Image](assets/tcs-ion-genai-essentials.png) |
+| **AI Engineering Essentials: Navigating the Tech Revolution** | Industry Certified | [View Certificate Image](assets/ai-engineering-essentials.png) |
+| **JavaScript Essentials** | Mozilla (Professional Certificate Series) | [View Certificate Image](assets/mozilla-javascript-essentials.png) |
+| **AI & Cybersecurity Awareness** | TCS iON | [View Certificate Image](assets/tcs-ion-ai-cybersecurity.png) |
+| **Python Essentials** | Professional Course | [View Certificate Image](assets/python-essentials.png) |
 
 ---
 
@@ -25,9 +25,9 @@ Every credential listed here is backed by verifiable documentation located withi
 
 | Event | Role / Contribution | Artifact |
 | :--- | :--- | :--- |
-| **Smart India Hackathon (SIH) 2025** | National Participant | [Participation Certificate](assets/sih-2025.pdf) |
-| **HackForBihar Hackathon** | Developer / Participant | [Participation Certificate](assets/hackforbihar-2025.pdf) |
-| **Code for Bharat Hackathon** | Developer / Participant | [Participation Certificate](assets/code-for-bharat.pdf) |
+| **Smart India Hackathon (SIH) 2025** | National Participant | [Participation Certificate](assets/sih-2025.png) |
+| **HackForBihar Hackathon** | Developer / Participant | [Participation Certificate](assets/hackforbihar-2025.png) |
+| **Code for Bharat Hackathon** | Developer / Participant | [Participation Certificate](assets/code-for-bharat.png) |
 
 ---
 
@@ -35,20 +35,20 @@ Every credential listed here is backed by verifiable documentation located withi
 
 * **Technology Virtual Experience Program** | *Deloitte Australia (via Forage)*
     * Completed practical tasks replicating real-world tech consulting scenarios.
-    * [Verify Program Completion](assets/deloitte-virtual-internship.pdf)
+    * [Verify Program Completion Image](assets/deloitte-virtual-internship.png)
 * **ICAT Internship Evaluation**
     * Core technical internship performance validation.
-    * [View Evaluation Certificate](assets/icat-internship-evaluation.pdf)
+    * [View Evaluation Image](assets/icat-internship-evaluation.png)
 
 ---
 
 ## ─── 📈 Continuous Learning & Workshops ───
 
-* **Build Smarter, Scalable AI Agents with UiPath** – *GeeksforGeeks × UiPath Workshop* | [View Certificate](assets/gfg-uipath-ai-agents.pdf)
-* **E-learning 2026 Resilience Course** – *Nestlé* | [View Certificate](assets/nestle-resilience-2026.pdf)
-* **Generative AI Intensive Live Bootcamps** – *Industry Workshops (Outskill / BE10X)* | [View Certificate](assets/Gen-ai.pdf)
+* **Build Smarter, Scalable AI Agents with UiPath** – *GeeksforGeeks × UiPath Workshop* | [View Certificate Image](assets/gfg-uipath-ai-agents.png)
+* **E-learning 2026 Resilience Course** – *Nestlé* | [View Certificate Image](assets/nestle-resilience-2026.png)
+* **Generative AI Intensive Live Bootcamps** – *Industry Workshops (Outskill / BE10X)* | [View Certificate Image](assets/Gen-ai.png)
 
 ---
 
 ### 🛠️ How to Verify
-All official PDF certificates and completion receipts are archived securely within the [`/assets`](./assets) directory of this repository for transparency.
+All official certificate images and screenshots are archived securely within the [`/assets`](./assets) directory of this repository for transparency.
